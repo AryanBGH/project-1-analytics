@@ -18,4 +18,13 @@ decision-oriented insights through structured analysis.
 
 ## Current Phase
 Week 2: Problem framing and dataset selection
-``
+## Dataset
+
+The dataset used in this project is the **Customer Churn Dataset** sourced from Kaggle.
+
+- Source: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
+- File used: `customer_churn_dataset-testing-master.csv`
+- License: GPL-2
+
+The dataset is stored in the repository under:data/raw/customer_churn_dataset-testing-master.csv
+The raw dataset is kept unchanged to preserve traceability.
